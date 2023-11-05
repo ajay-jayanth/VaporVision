@@ -58,5 +58,6 @@ In upcoming scenarios, EOG Resources can utilize their sensor data, this enhance
 
 Furthermore, this data optimization tool can be instrumental in evaluating the efficiency of EOG's latest sensor technology for methane leak detection, comparing their performance with previous sensor models used in prior expeditions. By doing so, it allows EOG to continually improve and enhance their leak detection capabilities for safer and more effective facilities.
 
-
+## To Run
+streamlit run Home.py
 
